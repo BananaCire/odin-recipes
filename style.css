@@ -1,0 +1,12 @@
+.title {
+    text-align:center;
+    font-size:40px;
+    background-color:#F00;
+    color:rgb(255,255,255);
+}
+
+.list {
+    text-align:center;
+    background-color:hsl(120,100%,50%);
+    color:#FFF;
+}
